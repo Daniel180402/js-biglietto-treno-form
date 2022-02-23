@@ -27,3 +27,7 @@
 .input-box{
     width: 700px;
 }
+
+#risultato{
+    display: none;
+}
